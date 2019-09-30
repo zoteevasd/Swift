@@ -1,0 +1,6 @@
+let inputString = "Welcome to 30 Days of Code!"
+var s=inputString
+// Your first line of output goes here
+print("Hello, World.")
+print(s)
+// Write  
